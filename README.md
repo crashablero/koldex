@@ -1,7 +1,24 @@
-# Koldexs Crasher 2023
+# Koldexs Crasher 
 
-- Created by Crasable
+their .gg/Koldexs
 
-- Lags, and Crashes the Server at the End.
+### What does it do
 
-- To see if you Successfully Crashed it wait for you to get Kicked for Network Issues Rejoin and see if it ID = 17 and u cant join or if u can join and its not a condo anymore.
+```
+- First it Starts lagging.
+- FPS drops.
+- Can lead to Crash.
+```
+
+### How do I check if I crashed it succesfully
+
+```
+- If you get Kicked, for Network Issues.
+- Try Rejoining if there is an Error with ID = 17, you successfully Crashed
+- Or if you Rejoin and the Condo is gone.
+```
+
+### Future Updates
+
+* It will get a GUI
+* It will support more Condos
